@@ -1,0 +1,801 @@
+num_students,event_attendance,time,day,temperature,campus_block,event_type,room_capacity,historical_occupancy,energy_consumption,traffic_level,resource_availability
+663,0,10:00,Tuesday,15.9,Parking Area,None,600,15,26.48,6.3,0.975
+964,0,07:00,Monday,14.6,Library,None,300,12,54.61,3.6,0.96
+959,0,10:00,Thursday,28.5,Library,None,300,17,57.33,5.1,0.943
+965,0,12:00,Wednesday,16.4,Canteen,None,250,16,83.45,4.8,0.936
+835,196,16:00,Wednesday,34.6,Block A,Lecture,400,120,129.35,100.0,0.7
+700,0,20:00,Saturday,29.3,Auditorium,None,1000,18,69.13,5.4,0.982
+566,0,19:00,Wednesday,39.6,Parking Area,None,600,8,22.54,3.36,0.987
+847,0,09:00,Wednesday,21.9,Auditorium,None,1000,29,78.79,11.31,0.971
+450,293,18:00,Tuesday,16.6,Parking Area,Workshop,600,85,39.11,100.0,0.858
+549,186,20:00,Sunday,33.7,Parking Area,Seminar,600,62,35.65,100.0,0.897
+235,128,16:00,Saturday,20.8,Block C,Lecture,350,57,34.26,100.0,0.837
+642,91,10:00,Saturday,27.7,Parking Area,Lecture,600,58,37.5,88.06,0.903
+549,90,15:00,Thursday,14.5,Library,Lecture,300,48,50.57,59.4,0.84
+964,0,16:00,Monday,22.8,Parking Area,None,600,21,31.07,11.47,0.965
+123,78,17:00,Friday,33.0,Block C,Cultural,350,36,26.08,64.74,0.897
+1029,21,18:00,Saturday,19.4,Block C,Lecture,350,55,78.38,35.1,0.843
+711,279,16:00,Tuesday,16.3,Block A,Exam,400,209,145.86,100.0,0.478
+101,185,14:00,Monday,15.1,Canteen,Exam,250,51,44.12,100.0,0.796
+218,0,10:00,Friday,38.5,Canteen,None,250,3,24.44,0.9,0.988
+1190,84,09:00,Saturday,25.3,Block A,Cultural,400,131,133.97,100.0,0.672
+533,296,19:00,Saturday,31.3,Canteen,Workshop,250,54,71.15,100.0,0.784
+997,284,14:00,Monday,18.9,Parking Area,Workshop,600,174,72.04,100.0,0.71
+551,0,07:00,Monday,31.8,Library,None,300,6,31.17,1.8,0.98
+245,463,10:00,Wednesday,30.7,Block A,Large Event,400,264,166.87,100.0,0.34
+597,262,19:00,Thursday,17.3,Library,Workshop,300,71,54.46,100.0,0.763
+210,70,07:00,Thursday,32.4,Auditorium,Lecture,1000,33,42.74,44.9,0.967
+1018,0,09:00,Thursday,17.1,Block B,None,500,28,87.82,10.92,0.944
+300,45,17:00,Friday,35.4,Block A,Lecture,400,34,43.33,42.51,0.915
+932,0,14:00,Thursday,18.0,Canteen,None,250,15,78.39,4.5,0.94
+899,0,11:00,Sunday,34.0,Auditorium,None,1000,33,129.13,9.9,0.967
+1096,99,10:00,Wednesday,18.1,Parking Area,Cultural,600,120,64.64,100.0,0.8
+217,45,16:00,Thursday,26.1,Block A,Seminar,400,40,32.55,44.85,0.9
+480,0,08:00,Friday,13.9,Library,None,300,7,28.4,2.73,0.977
+181,0,16:00,Monday,23.7,Library,None,300,3,9.25,1.17,0.99
+743,0,10:00,Wednesday,23.1,Block C,None,350,20,44.8,6.0,0.943
+248,24,14:00,Friday,40.0,Block C,Exam,350,30,37.19,21.0,0.914
+371,198,08:00,Tuesday,22.3,Block B,Lecture,500,99,75.5,100.0,0.802
+1183,0,07:00,Saturday,34.9,Parking Area,None,600,16,48.01,6.72,0.973
+319,0,18:00,Friday,16.4,Block B,None,500,8,27.79,3.12,0.984
+640,0,15:00,Thursday,19.0,Block C,None,350,18,42.0,5.4,0.949
+666,42,07:00,Wednesday,33.6,Parking Area,Lecture,600,28,29.28,41.16,0.953
+975,24,08:00,Monday,38.5,Parking Area,Lecture,600,40,52.11,43.68,0.933
+403,420,09:00,Monday,20.6,Block A,Large Event,400,268,139.79,100.0,0.33
+832,0,10:00,Saturday,19.0,Canteen,None,250,13,70.16,3.9,0.948
+416,141,20:00,Tuesday,39.3,Canteen,Lecture,250,25,51.84,78.0,0.9
+780,0,19:00,Thursday,34.5,Block A,None,400,15,58.47,4.5,0.963
+321,0,13:00,Sunday,13.1,Block C,None,350,8,24.26,2.4,0.977
+566,134,07:00,Saturday,17.4,Auditorium,Lecture,1000,73,98.07,88.9,0.927
+1143,0,13:00,Saturday,39.5,Canteen,None,250,15,124.41,4.5,0.94
+634,111,16:00,Wednesday,13.1,Block A,Exam,400,108,102.2,100.0,0.73
+1147,0,08:00,Thursday,37.2,Canteen,None,250,12,120.79,4.68,0.952
+503,0,12:00,Thursday,14.0,Auditorium,None,1000,20,61.36,6.0,0.98
+355,173,15:00,Wednesday,30.7,Block C,Workshop,350,89,70.26,100.0,0.746
+961,0,17:00,Thursday,31.0,Library,None,300,16,58.92,6.24,0.947
+100,175,11:00,Tuesday,24.0,Block C,Lecture,350,65,31.62,100.0,0.814
+537,281,14:00,Sunday,37.2,Auditorium,Lecture,1000,180,216.46,100.0,0.82
+786,0,08:00,Sunday,38.7,Block A,None,400,16,78.05,6.24,0.96
+150,0,07:00,Tuesday,39.6,Canteen,None,250,1,13.85,0.3,0.996
+498,216,14:00,Thursday,18.8,Auditorium,Lecture,1000,164,152.21,100.0,0.836
+318,598,13:00,Tuesday,16.9,Canteen,Large Event,250,211,150.73,100.0,0.156
+348,253,09:00,Sunday,25.0,Block A,Workshop,400,118,76.68,100.0,0.705
+1006,278,13:00,Sunday,37.4,Block C,Cultural,350,193,185.99,100.0,0.449
+630,146,20:00,Saturday,19.8,Canteen,Lecture,250,35,55.56,83.5,0.86
+258,0,18:00,Wednesday,18.6,Block B,None,500,6,21.88,2.34,0.988
+573,0,13:00,Saturday,16.3,Block A,None,400,19,48.58,5.7,0.953
+951,51,10:00,Sunday,23.8,Block C,Workshop,350,93,85.8,53.4,0.734
+879,0,14:00,Monday,38.4,Parking Area,None,600,19,43.91,7.98,0.968
+551,269,10:00,Wednesday,24.2,Canteen,Lecture,250,75,81.51,100.0,0.7
+438,259,09:00,Friday,27.0,Parking Area,Seminar,600,111,40.7,100.0,0.815
+977,0,09:00,Sunday,24.9,Parking Area,None,600,21,34.64,11.47,0.965
+791,214,11:00,Sunday,38.6,Block B,Lecture,500,132,173.4,100.0,0.736
+206,0,12:00,Tuesday,30.2,Auditorium,None,1000,8,24.43,2.4,0.992
+606,0,10:00,Sunday,12.6,Canteen,None,250,8,57.65,2.4,0.968
+546,0,14:00,Saturday,19.2,Parking Area,None,600,13,20.15,5.46,0.978
+435,179,08:00,Friday,12.7,Parking Area,Seminar,600,65,35.46,100.0,0.892
+506,58,16:00,Saturday,35.3,Auditorium,Lecture,1000,65,117.35,63.05,0.935
+347,489,19:00,Monday,21.7,Block C,Large Event,350,177,81.39,100.0,0.494
+125,235,20:00,Thursday,15.0,Library,Workshop,300,49,24.68,100.0,0.837
+413,242,09:00,Saturday,26.6,Canteen,Lecture,250,52,59.47,100.0,0.792
+1052,243,20:00,Saturday,28.6,Library,Seminar,300,82,84.06,100.0,0.727
+1023,0,10:00,Sunday,25.0,Block A,None,400,30,73.83,9.0,0.925
+765,113,14:00,Tuesday,21.9,Block A,Lecture,400,112,94.59,90.1,0.72
+665,25,15:00,Tuesday,14.4,Library,Seminar,300,44,52.45,25.7,0.853
+1075,0,17:00,Saturday,25.7,Canteen,None,250,14,85.55,5.46,0.944
+598,176,17:00,Friday,22.3,Block B,Lecture,500,110,89.13,100.0,0.78
+820,252,11:00,Wednesday,19.0,Parking Area,Workshop,600,146,60.66,100.0,0.757
+479,118,10:00,Saturday,25.6,Block A,Seminar,400,94,66.9,87.2,0.765
+305,119,11:00,Tuesday,22.1,Library,Workshop,300,51,33.34,74.8,0.83
+211,0,15:00,Wednesday,31.5,Block B,None,500,7,21.95,2.1,0.986
+125,0,16:00,Wednesday,25.1,Auditorium,None,1000,4,13.34,1.56,0.996
+1078,0,08:00,Sunday,13.8,Block A,None,400,23,86.72,8.97,0.943
+405,0,19:00,Friday,38.6,Parking Area,None,600,5,16.92,2.1,0.992
+562,287,13:00,Thursday,37.4,Library,Seminar,300,110,97.49,100.0,0.633
+223,0,16:00,Saturday,14.8,Auditorium,None,1000,8,25.37,3.12,0.992
+421,142,09:00,Friday,14.1,Block C,Workshop,350,76,63.05,100.0,0.783
+166,138,11:00,Saturday,19.9,Library,Lecture,300,44,23.94,82.2,0.853
+505,237,08:00,Friday,18.3,Block B,Exam,500,157,121.36,100.0,0.686
+439,0,19:00,Wednesday,28.7,Block B,None,500,10,31.52,3.0,0.98
+722,0,18:00,Thursday,38.4,Auditorium,None,1000,17,98.56,6.63,0.983
+984,185,16:00,Wednesday,12.7,Block A,Workshop,400,152,163.95,100.0,0.62
+142,157,16:00,Monday,33.4,Canteen,Workshop,250,37,40.47,100.0,0.852
+471,243,17:00,Sunday,25.8,Auditorium,Exam,1000,201,181.91,100.0,0.799
+314,0,20:00,Tuesday,21.2,Block C,None,350,5,15.81,1.5,0.986
+175,432,08:00,Wednesday,19.1,Auditorium,Large Event,1000,270,204.39,100.0,0.73
+102,297,14:00,Thursday,13.5,Canteen,Lecture,250,59,47.24,100.0,0.764
+205,124,11:00,Friday,15.7,Auditorium,Workshop,1000,89,90.68,88.7,0.911
+590,0,18:00,Tuesday,20.7,Auditorium,None,1000,19,59.57,7.41,0.981
+332,256,08:00,Saturday,35.3,Block B,Cultural,500,115,106.04,100.0,0.77
+950,267,14:00,Tuesday,24.8,Library,Seminar,300,148,103.87,100.0,0.507
+379,55,11:00,Sunday,34.1,Library,Lecture,300,26,36.88,35.3,0.913
+105,0,11:00,Saturday,20.4,Library,None,300,1,4.81,0.3,0.997
+1014,475,14:00,Wednesday,21.3,Auditorium,Large Event,1000,523,392.8,100.0,0.477
+589,216,10:00,Sunday,33.7,Block C,Exam,350,146,119.6,100.0,0.583
+880,217,17:00,Sunday,35.0,Parking Area,Exam,600,128,72.37,100.0,0.787
+779,0,20:00,Monday,36.5,Block A,None,400,13,64.49,3.9,0.968
+395,0,13:00,Sunday,30.3,Auditorium,None,1000,16,52.17,4.8,0.984
+914,61,20:00,Wednesday,35.9,Block C,Lecture,350,48,80.26,44.9,0.863
+1099,297,07:00,Friday,13.9,Block C,Workshop,350,114,105.05,100.0,0.674
+988,70,19:00,Saturday,31.7,Block B,Seminar,500,86,120.7,60.8,0.828
+194,186,19:00,Monday,20.2,Block C,Exam,350,68,35.56,100.0,0.806
+468,107,09:00,Monday,29.1,Library,Lecture,300,38,42.88,84.37,0.873
+393,138,14:00,Saturday,19.1,Auditorium,Exam,1000,154,136.76,100.0,0.846
+689,299,09:00,Monday,24.4,Canteen,Lecture,250,72,93.43,100.0,0.712
+612,253,20:00,Wednesday,17.6,Parking Area,Cultural,600,87,38.14,100.0,0.855
+835,171,18:00,Wednesday,12.6,Block B,Lecture,500,107,126.54,100.0,0.786
+200,274,20:00,Wednesday,33.7,Block A,Workshop,400,85,63.69,100.0,0.787
+613,90,17:00,Monday,37.3,Block B,Workshop,500,77,105.52,88.53,0.846
+847,0,18:00,Tuesday,14.5,Auditorium,None,1000,24,104.25,9.36,0.976
+849,0,15:00,Friday,37.6,Block B,None,500,27,92.04,8.1,0.946
+704,193,19:00,Monday,25.1,Canteen,Cultural,250,58,78.94,100.0,0.768
+913,485,12:00,Monday,34.1,Block B,Large Event,500,434,363.16,100.0,0.132
+636,215,20:00,Saturday,38.3,Auditorium,Lecture,1000,96,149.03,100.0,0.904
+771,133,17:00,Monday,29.8,Block A,Workshop,400,96,105.9,100.0,0.76
+386,43,07:00,Wednesday,39.9,Parking Area,Lecture,600,19,21.08,38.08,0.968
+1029,0,12:00,Saturday,38.6,Library,None,300,18,73.68,5.4,0.94
+416,232,17:00,Monday,35.3,Library,Seminar,300,66,54.46,100.0,0.78
+858,0,10:00,Thursday,24.5,Block C,None,350,23,57.54,6.9,0.934
+834,51,13:00,Wednesday,17.3,Parking Area,Lecture,600,71,46.36,65.52,0.882
+534,0,17:00,Saturday,28.7,Auditorium,None,1000,19,64.04,7.41,0.981
+520,55,20:00,Sunday,27.5,Block B,Cultural,500,51,57.21,42.8,0.898
+402,0,19:00,Friday,12.1,Block B,None,500,8,32.66,2.4,0.984
+457,76,17:00,Sunday,12.7,Block B,Workshop,500,73,81.08,77.87,0.854
+132,109,11:00,Monday,15.5,Block B,Workshop,500,66,48.16,74.3,0.868
+841,282,16:00,Monday,24.7,Block A,Lecture,400,171,138.48,100.0,0.573
+1167,174,14:00,Saturday,39.0,Parking Area,Seminar,600,138,95.91,100.0,0.77
+321,271,18:00,Thursday,14.1,Auditorium,Lecture,1000,127,130.74,100.0,0.873
+765,0,13:00,Friday,26.9,Block A,None,400,24,61.32,7.2,0.94
+334,130,13:00,Thursday,36.9,Block A,Seminar,400,82,81.83,89.6,0.795
+294,180,13:00,Wednesday,30.6,Auditorium,Lecture,1000,117,121.09,100.0,0.883
+274,0,08:00,Thursday,14.7,Auditorium,None,1000,7,28.72,2.73,0.993
+775,0,17:00,Monday,23.5,Library,None,300,14,38.01,5.46,0.953
+205,167,16:00,Wednesday,21.8,Auditorium,Exam,1000,133,97.02,100.0,0.867
+321,199,20:00,Friday,22.3,Parking Area,Lecture,600,52,17.62,100.0,0.913
+153,156,07:00,Tuesday,19.7,Canteen,Lecture,250,24,20.14,85.2,0.904
+393,0,16:00,Saturday,23.2,Block C,None,350,11,25.75,4.29,0.969
+1186,0,10:00,Thursday,23.8,Block A,None,400,36,88.21,10.8,0.91
+273,0,07:00,Tuesday,16.4,Parking Area,None,600,3,8.32,1.26,0.995
+968,268,16:00,Thursday,23.6,Block C,Lecture,350,155,119.91,100.0,0.557
+680,269,15:00,Saturday,20.6,Block C,Lecture,350,148,107.05,100.0,0.577
+717,0,10:00,Sunday,15.8,Block A,None,400,21,59.79,6.3,0.948
+981,109,09:00,Thursday,26.9,Block A,Lecture,400,100,118.06,100.0,0.75
+247,403,20:00,Saturday,13.2,Parking Area,Large Event,600,131,41.36,100.0,0.782
+979,0,16:00,Thursday,31.9,Canteen,None,250,13,93.61,5.07,0.948
+451,255,20:00,Saturday,37.8,Block A,Cultural,400,106,99.62,100.0,0.735
+920,288,08:00,Thursday,36.4,Block B,Lecture,500,139,171.06,100.0,0.722
+1145,0,17:00,Monday,26.9,Canteen,None,250,16,102.63,6.24,0.936
+402,140,08:00,Tuesday,19.2,Block C,Seminar,350,71,53.11,100.0,0.797
+462,272,14:00,Sunday,27.8,Canteen,Workshop,250,79,82.31,100.0,0.684
+761,181,09:00,Thursday,13.9,Library,Workshop,300,73,74.45,100.0,0.757
+820,279,08:00,Wednesday,24.9,Block C,Workshop,350,138,104.45,100.0,0.606
+284,0,16:00,Friday,26.2,Block C,None,350,7,19.17,2.73,0.98
+184,250,19:00,Friday,30.3,Canteen,Seminar,250,41,39.94,100.0,0.836
+1022,72,19:00,Sunday,21.6,Block B,Cultural,500,100,96.73,66.0,0.8
+996,0,14:00,Friday,26.6,Block B,None,500,38,92.41,11.4,0.924
+792,46,19:00,Saturday,30.1,Block C,Lecture,350,42,63.55,35.6,0.88
+616,96,12:00,Monday,28.3,Parking Area,Lecture,600,67,38.75,95.34,0.888
+902,86,16:00,Saturday,38.3,Parking Area,Seminar,600,75,63.73,100.0,0.875
+361,0,17:00,Saturday,35.2,Canteen,None,250,4,34.01,1.56,0.984
+967,0,15:00,Wednesday,12.5,Library,None,300,17,68.08,5.1,0.943
+1095,118,10:00,Tuesday,16.3,Block C,Cultural,350,132,133.11,98.6,0.623
+1178,39,17:00,Wednesday,36.5,Library,Seminar,300,57,99.41,47.58,0.81
+439,0,18:00,Thursday,13.2,Block B,None,500,10,41.6,3.9,0.98
+1019,139,15:00,Tuesday,20.7,Auditorium,Workshop,1000,201,201.34,100.0,0.799
+1002,0,14:00,Sunday,19.9,Canteen,None,250,16,81.9,4.8,0.936
+383,328,07:00,Saturday,25.5,Block B,Large Event,500,153,104.26,100.0,0.694
+355,345,08:00,Sunday,16.5,Parking Area,Large Event,600,123,43.54,100.0,0.795
+554,250,12:00,Monday,23.6,Canteen,Lecture,250,73,80.56,100.0,0.708
+867,134,07:00,Wednesday,38.1,Auditorium,Cultural,1000,111,173.24,100.0,0.889
+178,0,11:00,Sunday,25.2,Canteen,None,250,3,13.75,0.9,0.988
+110,60,07:00,Wednesday,18.0,Auditorium,Lecture,1000,27,27.52,38.1,0.973
+327,167,10:00,Wednesday,15.4,Library,Lecture,300,52,41.4,99.1,0.827
+327,275,16:00,Friday,12.5,Library,Lecture,300,72,50.91,100.0,0.76
+103,0,16:00,Wednesday,18.7,Block B,None,500,3,8.69,1.17,0.994
+838,54,15:00,Friday,26.2,Block A,Lecture,400,91,96.62,54.3,0.772
+189,218,12:00,Wednesday,32.9,Auditorium,Exam,1000,167,157.65,100.0,0.833
+312,190,09:00,Monday,21.9,Block B,Seminar,500,116,78.91,100.0,0.768
+1051,265,17:00,Tuesday,34.7,Canteen,Seminar,250,94,168.73,100.0,0.624
+512,0,07:00,Sunday,17.6,Auditorium,None,1000,14,50.64,4.2,0.986
+1069,149,07:00,Sunday,30.1,Library,Lecture,300,52,79.56,90.1,0.827
+779,339,08:00,Sunday,22.3,Block A,Large Event,400,231,139.63,100.0,0.422
+482,274,18:00,Thursday,22.3,Auditorium,Lecture,1000,144,123.13,100.0,0.856
+261,240,16:00,Sunday,17.1,Block A,Seminar,400,131,84.06,100.0,0.672
+727,248,16:00,Saturday,23.9,Block C,Workshop,350,146,95.72,100.0,0.583
+822,242,11:00,Saturday,39.4,Block A,Seminar,400,171,182.39,100.0,0.573
+1150,101,07:00,Tuesday,35.8,Parking Area,Lecture,600,53,53.49,92.96,0.912
+850,0,12:00,Thursday,38.6,Block B,None,500,29,98.52,8.7,0.942
+861,247,19:00,Monday,28.1,Auditorium,Cultural,1000,157,174.01,100.0,0.843
+332,0,07:00,Saturday,17.2,Parking Area,None,600,4,10.31,1.68,0.993
+633,0,18:00,Thursday,18.0,Block A,None,400,14,44.07,5.46,0.965
+377,0,20:00,Monday,24.7,Auditorium,None,1000,10,33.69,3.0,0.99
+754,541,12:00,Saturday,13.8,Block A,Large Event,400,355,240.86,100.0,0.113
+456,0,19:00,Wednesday,26.2,Canteen,None,250,4,33.58,1.2,0.984
+1111,0,07:00,Wednesday,27.5,Block B,None,500,23,87.37,6.9,0.954
+276,0,08:00,Wednesday,23.1,Library,None,300,4,13.37,1.56,0.987
+251,84,12:00,Saturday,14.1,Auditorium,Seminar,1000,76,82.66,64.8,0.924
+472,86,13:00,Friday,37.5,Block B,Exam,500,103,115.67,73.9,0.794
+431,0,12:00,Saturday,18.3,Block B,None,500,17,37.51,5.1,0.966
+613,300,17:00,Friday,19.7,Block C,Large Event,350,172,101.14,100.0,0.509
+445,98,09:00,Saturday,29.5,Block A,Lecture,400,62,62.07,87.88,0.845
+158,0,08:00,Monday,38.6,Library,None,300,2,11.11,0.78,0.993
+953,35,14:00,Saturday,27.3,Block B,Seminar,500,118,129.51,52.9,0.764
+931,352,14:00,Monday,31.3,Block B,Large Event,500,348,297.45,100.0,0.304
+394,0,12:00,Sunday,32.1,Auditorium,None,1000,15,47.49,4.5,0.985
+858,0,15:00,Friday,15.0,Auditorium,None,1000,34,107.43,10.2,0.966
+298,0,07:00,Wednesday,38.5,Auditorium,None,1000,6,35.07,1.8,0.994
+770,180,10:00,Sunday,16.5,Canteen,Exam,250,86,111.98,100.0,0.656
+284,221,15:00,Thursday,39.1,Block C,Lecture,350,85,74.83,100.0,0.757
+1063,0,11:00,Friday,12.2,Block A,None,400,33,95.71,9.9,0.917
+925,207,07:00,Thursday,13.4,Block C,Seminar,350,94,93.57,100.0,0.731
+1132,0,14:00,Sunday,27.4,Block C,None,350,34,76.74,10.2,0.903
+298,0,13:00,Wednesday,34.3,Library,None,300,5,21.99,1.5,0.983
+1142,0,13:00,Friday,13.1,Canteen,None,250,20,110.54,6.0,0.92
+1035,96,16:00,Friday,15.9,Canteen,Lecture,250,56,114.09,84.24,0.776
+712,192,15:00,Sunday,26.3,Auditorium,Cultural,1000,198,200.25,100.0,0.802
+854,369,17:00,Monday,39.4,Auditorium,Large Event,1000,258,329.71,100.0,0.742
+154,262,11:00,Saturday,33.9,Parking Area,Exam,600,111,36.87,100.0,0.815
+1083,0,09:00,Friday,29.6,Parking Area,None,600,20,39.78,10.92,0.967
+596,216,16:00,Saturday,15.1,Block B,Large Event,500,202,162.19,100.0,0.596
+517,230,15:00,Sunday,29.1,Block B,Lecture,500,131,116.43,100.0,0.738
+382,0,15:00,Tuesday,27.7,Parking Area,None,600,9,14.61,3.78,0.985
+454,0,14:00,Friday,21.6,Auditorium,None,1000,19,49.8,5.7,0.981
+641,267,10:00,Tuesday,19.8,Parking Area,Seminar,600,131,54.01,100.0,0.782
+524,270,12:00,Thursday,21.8,Block C,Seminar,350,186,97.3,100.0,0.469
+877,0,13:00,Sunday,21.7,Block C,None,350,27,53.37,8.1,0.923
+261,0,12:00,Thursday,30.4,Block A,None,400,8,21.76,2.4,0.98
+656,90,08:00,Friday,32.7,Canteen,Workshop,250,34,81.95,71.76,0.864
+576,0,07:00,Monday,23.6,Library,None,300,7,26.02,2.1,0.977
+423,0,13:00,Saturday,38.2,Canteen,None,250,6,44.74,1.8,0.976
+688,184,11:00,Saturday,13.7,Block B,Seminar,500,167,144.11,100.0,0.666
+176,109,13:00,Sunday,16.9,Block B,Workshop,500,89,57.84,81.2,0.822
+481,168,07:00,Monday,20.4,Auditorium,Seminar,1000,94,85.45,100.0,0.906
+1173,0,14:00,Tuesday,35.8,Block C,None,350,30,99.42,9.0,0.914
+1039,0,17:00,Wednesday,32.1,Block A,None,400,28,90.8,10.92,0.93
+495,109,16:00,Sunday,29.9,Block C,Workshop,350,70,66.13,98.15,0.8
+295,0,09:00,Tuesday,25.4,Block C,None,350,7,19.11,2.73,0.98
+646,0,12:00,Wednesday,28.3,Auditorium,None,1000,25,76.39,7.5,0.975
+227,80,14:00,Wednesday,16.5,Block C,Seminar,350,51,33.57,55.3,0.854
+340,171,12:00,Friday,18.2,Parking Area,Seminar,600,95,33.29,100.0,0.842
+865,232,18:00,Friday,37.6,Auditorium,Seminar,1000,159,224.19,100.0,0.841
+606,0,17:00,Sunday,28.7,Canteen,None,250,8,50.59,3.12,0.968
+259,77,07:00,Sunday,27.3,Library,Seminar,300,22,20.13,45.1,0.927
+1165,0,14:00,Monday,31.0,Block B,None,500,41,109.51,12.3,0.918
+213,252,09:00,Friday,23.6,Library,Lecture,300,60,31.32,100.0,0.8
+144,402,11:00,Sunday,12.1,Parking Area,Large Event,600,176,56.2,100.0,0.707
+230,297,07:00,Monday,39.6,Auditorium,Lecture,1000,90,102.2,100.0,0.91
+960,211,13:00,Thursday,36.3,Block B,Seminar,500,213,225.37,100.0,0.574
+372,198,08:00,Tuesday,39.8,Parking Area,Cultural,600,65,38.12,100.0,0.892
+146,352,14:00,Saturday,32.1,Block B,Large Event,500,231,160.01,100.0,0.538
+808,0,09:00,Wednesday,17.3,Block B,None,500,26,66.76,10.14,0.948
+958,514,19:00,Monday,18.7,Block A,Large Event,400,273,176.46,100.0,0.318
+199,145,18:00,Monday,23.3,Auditorium,Workshop,1000,81,69.65,100.0,0.919
+386,277,11:00,Tuesday,34.8,Canteen,Seminar,250,78,89.04,100.0,0.688
+756,141,11:00,Tuesday,39.6,Library,Seminar,300,71,88.53,91.8,0.763
+458,0,17:00,Saturday,24.0,Block C,None,350,9,27.89,3.51,0.974
+1174,183,18:00,Thursday,23.4,Parking Area,Seminar,600,112,60.75,100.0,0.813
+561,173,20:00,Saturday,16.0,Library,Lecture,300,43,42.85,99.4,0.857
+1185,88,13:00,Tuesday,19.1,Auditorium,Cultural,1000,214,245.92,100.0,0.786
+289,474,18:00,Sunday,17.3,Auditorium,Large Event,1000,280,235.4,100.0,0.72
+249,0,10:00,Sunday,33.3,Library,None,300,4,15.72,1.2,0.987
+781,0,11:00,Monday,17.9,Auditorium,None,1000,32,95.16,9.6,0.968
+1080,144,18:00,Friday,31.7,Parking Area,Cultural,600,92,65.63,100.0,0.847
+879,258,15:00,Saturday,22.1,Block C,Seminar,350,189,124.39,100.0,0.46
+1061,183,10:00,Wednesday,20.8,Auditorium,Lecture,1000,204,219.69,100.0,0.796
+634,0,15:00,Friday,28.2,Parking Area,None,600,14,24.61,5.88,0.977
+603,0,14:00,Friday,30.3,Block C,None,350,16,43.92,4.8,0.954
+1104,255,09:00,Saturday,34.3,Canteen,Lecture,250,75,162.56,100.0,0.7
+220,0,15:00,Monday,35.5,Auditorium,None,1000,8,31.75,2.4,0.992
+944,90,20:00,Saturday,18.5,Block A,Seminar,400,83,88.38,69.9,0.792
+223,267,17:00,Thursday,12.4,Library,Lecture,300,59,39.06,100.0,0.803
+662,294,11:00,Monday,26.1,Block A,Lecture,400,167,118.45,100.0,0.583
+297,0,15:00,Tuesday,18.7,Block B,None,500,10,24.54,3.0,0.98
+912,0,08:00,Wednesday,38.9,Block C,None,350,16,78.17,6.24,0.954
+265,0,17:00,Sunday,30.2,Parking Area,None,600,5,10.54,2.73,0.992
+214,24,18:00,Tuesday,14.3,Auditorium,Workshop,1000,27,38.82,26.13,0.973
+295,290,07:00,Tuesday,17.9,Block C,Workshop,350,95,50.03,100.0,0.729
+252,0,17:00,Wednesday,37.2,Auditorium,None,1000,7,34.39,2.73,0.993
+524,0,16:00,Tuesday,33.1,Canteen,None,250,7,49.03,2.73,0.972
+592,0,16:00,Sunday,35.8,Block A,None,400,15,52.9,5.85,0.963
+386,60,15:00,Saturday,39.3,Auditorium,Seminar,1000,74,116.01,52.2,0.926
+912,0,19:00,Wednesday,12.8,Canteen,None,250,8,83.98,2.4,0.968
+868,0,13:00,Tuesday,31.0,Auditorium,None,1000,35,110.65,10.5,0.965
+604,0,18:00,Monday,14.3,Library,None,300,9,38.52,3.51,0.97
+897,0,12:00,Wednesday,15.0,Parking Area,None,600,23,36.01,9.66,0.962
+309,87,08:00,Tuesday,24.1,Block C,Seminar,350,44,34.2,73.71,0.874
+824,0,15:00,Monday,28.7,Block A,None,400,26,62.85,7.8,0.935
+894,0,19:00,Monday,32.3,Block A,None,400,14,62.82,4.2,0.965
+447,214,09:00,Tuesday,19.5,Block B,Workshop,500,133,100.46,100.0,0.734
+962,173,14:00,Sunday,14.2,Block B,Lecture,500,161,173.03,100.0,0.678
+500,254,08:00,Tuesday,20.5,Parking Area,Lecture,600,84,33.3,100.0,0.86
+774,245,12:00,Thursday,34.8,Library,Lecture,300,102,88.73,100.0,0.66
+511,0,14:00,Wednesday,17.0,Block B,None,500,18,46.53,5.4,0.964
+1105,144,12:00,Thursday,19.8,Parking Area,Seminar,600,139,62.58,100.0,0.768
+468,0,17:00,Sunday,27.4,Library,None,300,8,26.85,3.12,0.973
+696,0,20:00,Saturday,13.9,Parking Area,None,600,10,22.71,4.2,0.983
+720,143,11:00,Saturday,16.3,Parking Area,Lecture,600,79,44.32,100.0,0.868
+1081,225,15:00,Friday,37.9,Auditorium,Cultural,1000,253,342.39,100.0,0.747
+836,294,16:00,Saturday,37.6,Block A,Seminar,400,188,192.55,100.0,0.53
+190,224,19:00,Wednesday,39.0,Parking Area,Lecture,600,43,20.21,100.0,0.928
+1162,0,15:00,Friday,31.3,Block C,None,350,31,92.67,9.3,0.911
+1124,97,12:00,Monday,25.5,Auditorium,Seminar,1000,192,245.88,100.0,0.808
+390,0,12:00,Wednesday,21.6,Block A,None,400,13,26.19,3.9,0.968
+997,251,12:00,Monday,20.4,Block C,Lecture,350,168,119.21,100.0,0.52
+323,104,18:00,Tuesday,26.4,Canteen,Lecture,250,23,37.44,76.57,0.908
+574,227,17:00,Tuesday,17.2,Auditorium,Cultural,1000,178,170.1,100.0,0.822
+504,250,16:00,Thursday,22.9,Parking Area,Workshop,600,114,38.95,100.0,0.81
+228,72,19:00,Sunday,27.0,Canteen,Seminar,250,17,25.61,41.1,0.932
+1102,0,15:00,Saturday,20.8,Block A,None,400,35,80.77,10.5,0.912
+1037,108,20:00,Saturday,31.8,Block A,Lecture,400,71,109.33,75.3,0.823
+741,80,10:00,Wednesday,15.3,Block A,Seminar,400,96,101.25,68.8,0.76
+382,216,13:00,Tuesday,25.6,Auditorium,Lecture,1000,138,124.13,100.0,0.862
+1102,167,09:00,Tuesday,20.8,Block B,Workshop,500,167,153.42,100.0,0.666
+1092,89,10:00,Sunday,22.8,Block C,Cultural,350,120,101.73,80.5,0.657
+951,247,14:00,Tuesday,14.3,Auditorium,Seminar,1000,285,310.25,100.0,0.715
+560,0,15:00,Wednesday,16.7,Block C,None,350,14,39.23,4.2,0.96
+1146,77,16:00,Monday,19.5,Canteen,Lecture,250,47,104.44,68.38,0.812
+185,589,18:00,Thursday,27.3,Library,Large Event,300,170,78.69,100.0,0.433
+606,172,20:00,Monday,24.6,Canteen,Workshop,250,40,63.49,98.0,0.84
+340,597,19:00,Tuesday,17.9,Auditorium,Large Event,1000,302,203.44,100.0,0.698
+976,104,16:00,Tuesday,34.0,Canteen,Seminar,250,62,123.32,91.78,0.752
+675,295,09:00,Wednesday,39.4,Library,Lecture,300,76,90.24,100.0,0.747
+295,89,19:00,Sunday,23.5,Canteen,Lecture,250,19,28.36,50.2,0.924
+371,0,10:00,Tuesday,31.9,Parking Area,None,600,8,14.59,3.36,0.987
+391,157,17:00,Thursday,22.5,Parking Area,Lecture,600,66,26.49,100.0,0.89
+1155,0,18:00,Wednesday,31.5,Canteen,None,250,13,103.5,5.07,0.948
+105,0,20:00,Sunday,35.7,Auditorium,None,1000,2,12.66,0.6,0.998
+833,52,19:00,Friday,23.1,Parking Area,Workshop,600,51,31.57,57.82,0.915
+680,0,12:00,Friday,28.2,Auditorium,None,1000,26,79.58,7.8,0.974
+199,43,08:00,Saturday,33.9,Block C,Exam,350,25,26.94,37.7,0.929
+1034,0,07:00,Thursday,17.7,Canteen,None,250,10,73.97,3.0,0.96
+661,0,08:00,Saturday,22.1,Parking Area,None,600,13,21.72,7.1,0.978
+911,0,17:00,Wednesday,32.3,Parking Area,None,600,17,36.09,9.28,0.972
+102,129,14:00,Monday,15.7,Block A,Seminar,400,75,48.65,87.0,0.812
+803,0,20:00,Monday,39.7,Block A,None,400,13,70.12,3.9,0.968
+282,0,18:00,Sunday,14.9,Block A,None,400,6,23.69,2.34,0.985
+372,93,08:00,Friday,27.8,Block B,Lecture,500,53,55.67,81.12,0.894
+410,230,16:00,Saturday,24.4,Block C,Seminar,350,128,82.44,100.0,0.634
+886,199,13:00,Wednesday,34.2,Block B,Seminar,500,196,214.47,100.0,0.608
+683,33,20:00,Sunday,30.4,Block B,Workshop,500,50,77.99,31.5,0.9
+902,0,11:00,Saturday,13.5,Library,None,300,19,54.74,5.7,0.937
+593,275,17:00,Friday,14.0,Auditorium,Lecture,1000,160,178.12,100.0,0.84
+370,218,20:00,Sunday,27.9,Block C,Cultural,350,77,54.59,100.0,0.78
+249,28,16:00,Monday,12.4,Canteen,Lecture,250,13,32.66,23.27,0.948
+686,276,19:00,Thursday,23.9,Canteen,Lecture,250,50,71.14,100.0,0.8
+668,62,11:00,Monday,26.3,Library,Workshop,300,55,58.87,47.5,0.817
+235,0,11:00,Saturday,24.2,Library,None,300,5,12.79,1.5,0.983
+989,0,08:00,Thursday,29.1,Block B,None,500,28,90.81,10.92,0.944
+344,26,18:00,Tuesday,31.6,Parking Area,Seminar,600,24,20.59,36.76,0.96
+630,105,12:00,Tuesday,33.0,Library,Lecture,300,57,60.6,69.6,0.81
+160,191,19:00,Thursday,19.6,Block A,Seminar,400,75,41.74,100.0,0.812
+1116,253,15:00,Wednesday,13.6,Library,Workshop,300,130,116.55,100.0,0.567
+310,0,16:00,Saturday,32.2,Block B,None,500,10,32.27,3.9,0.98
+125,325,07:00,Thursday,22.2,Block A,Large Event,400,137,60.68,100.0,0.657
+958,0,10:00,Wednesday,19.0,Canteen,None,250,15,76.18,4.5,0.94
+863,0,08:00,Friday,30.9,Canteen,None,250,10,79.58,3.9,0.96
+921,55,14:00,Sunday,19.9,Library,Cultural,300,81,71.22,51.8,0.73
+855,122,11:00,Friday,34.0,Library,Lecture,300,65,79.83,80.5,0.783
+1110,120,18:00,Friday,33.3,Block C,Workshop,350,91,122.37,100.0,0.74
+809,0,17:00,Sunday,31.4,Auditorium,None,1000,27,101.4,10.53,0.973
+729,73,10:00,Friday,39.5,Canteen,Workshop,250,34,105.71,46.7,0.864
+290,42,10:00,Sunday,26.6,Block B,Seminar,500,48,44.7,35.4,0.904
+295,0,15:00,Tuesday,29.8,Parking Area,None,600,6,12.02,2.52,0.99
+367,141,11:00,Wednesday,35.8,Block A,Lecture,400,80,76.91,94.5,0.8
+751,251,11:00,Tuesday,14.1,Canteen,Seminar,250,95,131.57,100.0,0.62
+316,0,09:00,Thursday,25.0,Library,None,300,5,17.54,1.95,0.983
+731,0,14:00,Wednesday,35.9,Canteen,None,250,12,80.36,3.6,0.952
+182,310,20:00,Sunday,21.2,Block C,Large Event,350,118,52.74,100.0,0.663
+200,173,11:00,Sunday,39.7,Block C,Lecture,350,67,56.22,100.0,0.809
+611,68,14:00,Monday,34.5,Auditorium,Workshop,1000,101,150.95,64.3,0.899
+555,86,10:00,Sunday,23.2,Canteen,Seminar,250,43,56.14,55.9,0.828
+630,58,07:00,Monday,17.5,Block A,Workshop,400,48,54.22,43.4,0.88
+779,82,07:00,Thursday,13.4,Block A,Exam,400,79,87.02,64.7,0.802
+160,215,17:00,Thursday,16.8,Parking Area,Lecture,600,62,21.38,100.0,0.897
+404,37,16:00,Friday,29.3,Block C,Lecture,350,34,39.26,37.31,0.903
+279,163,13:00,Tuesday,23.7,Library,Lecture,300,55,31.39,98.0,0.817
+139,215,19:00,Saturday,22.1,Block B,Workshop,500,78,41.56,100.0,0.844
+895,158,09:00,Monday,20.9,Library,Lecture,300,73,72.83,100.0,0.757
+1066,0,15:00,Wednesday,33.5,Canteen,None,250,18,107.38,5.4,0.928
+593,0,11:00,Friday,34.9,Block A,None,400,17,55.24,5.1,0.958
+895,201,20:00,Sunday,16.9,Block B,Workshop,500,121,122.26,100.0,0.758
+157,200,16:00,Friday,16.0,Parking Area,Seminar,600,84,26.25,100.0,0.86
+1108,297,11:00,Tuesday,25.7,Canteen,Exam,250,144,168.31,100.0,0.424
+1078,0,07:00,Wednesday,37.7,Block B,None,500,22,103.5,6.6,0.956
+762,0,07:00,Monday,16.1,Parking Area,None,600,11,24.48,4.62,0.982
+847,237,12:00,Saturday,38.4,Block A,Large Event,400,205,206.38,100.0,0.488
+422,0,18:00,Thursday,34.2,Block C,None,350,8,32.4,3.12,0.977
+830,134,17:00,Friday,34.8,Block B,Seminar,500,116,153.83,100.0,0.768
+103,0,18:00,Friday,23.0,Block C,None,350,2,6.04,0.78,0.994
+751,0,19:00,Friday,18.2,Block A,None,400,13,45.83,3.9,0.968
+259,0,10:00,Wednesday,39.5,Block B,None,500,8,31.96,2.4,0.984
+787,428,07:00,Wednesday,17.9,Block A,Large Event,400,208,132.83,100.0,0.48
+102,0,07:00,Thursday,24.3,Canteen,None,250,1,7.14,0.3,0.996
+875,199,15:00,Thursday,14.8,Auditorium,Lecture,1000,160,203.85,100.0,0.84
+561,103,14:00,Monday,34.4,Parking Area,Seminar,600,74,43.58,100.0,0.877
+251,195,09:00,Thursday,16.5,Block C,Cultural,350,102,64.2,100.0,0.709
+1088,35,13:00,Saturday,16.6,Block A,Lecture,400,103,120.37,48.4,0.742
+489,0,13:00,Saturday,27.5,Block A,None,400,17,39.15,5.1,0.958
+586,0,08:00,Monday,23.0,Parking Area,None,600,10,18.6,5.46,0.983
+975,64,11:00,Sunday,30.5,Block A,Lecture,400,93,116.79,59.9,0.767
+697,0,08:00,Thursday,35.6,Block A,None,400,14,65.0,5.46,0.965
+642,66,17:00,Friday,22.9,Auditorium,Exam,1000,108,122.48,85.02,0.892
+639,245,14:00,Wednesday,18.3,Block B,Lecture,500,174,138.45,100.0,0.652
+298,63,17:00,Wednesday,34.6,Canteen,Seminar,250,20,43.1,48.75,0.92
+892,287,13:00,Friday,31.2,Block B,Workshop,500,251,219.33,100.0,0.498
+261,222,20:00,Saturday,13.0,Block B,Lecture,500,70,56.15,100.0,0.86
+401,81,19:00,Thursday,16.8,Library,Seminar,300,34,30.79,50.7,0.887
+187,0,13:00,Monday,39.7,Canteen,None,250,2,21.63,0.6,0.992
+628,0,12:00,Saturday,37.6,Parking Area,None,600,14,30.36,5.88,0.977
+665,286,14:00,Sunday,12.3,Auditorium,Workshop,1000,229,235.64,100.0,0.771
+948,96,09:00,Friday,28.5,Canteen,Lecture,250,46,93.97,80.34,0.816
+306,166,20:00,Friday,36.6,Block A,Workshop,400,60,55.28,100.0,0.85
+1068,39,09:00,Wednesday,23.3,Parking Area,Lecture,600,59,42.2,67.7,0.902
+778,0,18:00,Tuesday,13.4,Auditorium,None,1000,21,92.08,8.19,0.979
+720,0,11:00,Wednesday,35.6,Block C,None,350,19,57.9,5.7,0.946
+715,0,18:00,Thursday,33.7,Canteen,None,250,7,72.76,2.73,0.972
+484,246,10:00,Sunday,23.4,Library,Workshop,300,88,54.72,100.0,0.707
+1155,281,08:00,Wednesday,31.9,Block C,Large Event,350,163,164.15,100.0,0.534
+159,108,10:00,Sunday,17.6,Library,Exam,300,44,25.55,67.2,0.853
+507,160,12:00,Sunday,25.0,Block A,Exam,400,134,99.83,100.0,0.665
+862,0,14:00,Friday,24.5,Parking Area,None,600,23,30.58,9.66,0.962
+434,152,18:00,Sunday,31.3,Library,Lecture,300,41,44.54,100.0,0.863
+538,313,17:00,Tuesday,31.0,Block B,Large Event,500,215,180.57,100.0,0.57
+118,442,09:00,Saturday,16.8,Block A,Large Event,400,227,119.64,100.0,0.432
+725,564,18:00,Saturday,19.7,Library,Large Event,300,207,106.65,100.0,0.31
+1055,0,11:00,Saturday,26.6,Auditorium,None,1000,40,116.01,12.0,0.96
+866,164,11:00,Saturday,15.0,Block A,Lecture,400,146,141.67,100.0,0.635
+667,0,11:00,Saturday,31.9,Parking Area,None,600,15,27.48,6.3,0.975
+592,49,19:00,Sunday,34.5,Block B,Lecture,500,39,66.0,36.2,0.922
+152,0,17:00,Thursday,39.9,Parking Area,None,600,2,7.4,1.09,0.997
+488,195,18:00,Saturday,18.2,Auditorium,Seminar,1000,120,122.33,100.0,0.88
+714,107,20:00,Saturday,36.5,Parking Area,Lecture,600,41,38.0,92.12,0.932
+474,191,17:00,Monday,18.2,Block B,Seminar,500,134,112.52,100.0,0.732
+778,210,11:00,Friday,20.2,Auditorium,Seminar,1000,232,206.01,100.0,0.768
+245,261,10:00,Friday,15.4,Canteen,Workshop,250,63,56.58,100.0,0.748
+408,0,09:00,Tuesday,21.6,Auditorium,None,1000,16,41.48,6.24,0.984
+469,0,19:00,Monday,25.7,Auditorium,None,1000,11,42.53,3.3,0.989
+1025,0,11:00,Tuesday,33.3,Parking Area,None,600,24,47.47,10.08,0.96
+280,86,16:00,Thursday,29.7,Auditorium,Seminar,1000,68,82.73,82.42,0.932
+1193,0,10:00,Saturday,22.4,Auditorium,None,1000,49,123.89,14.7,0.951
+136,22,17:00,Saturday,19.0,Canteen,Lecture,250,8,13.89,17.42,0.968
+1130,0,16:00,Wednesday,16.7,Block B,None,500,38,97.52,14.82,0.924
+1165,288,12:00,Thursday,36.9,Block C,Lecture,350,174,182.96,100.0,0.503
+485,104,19:00,Thursday,12.5,Auditorium,Lecture,1000,60,96.72,70.0,0.94
+1133,106,08:00,Wednesday,31.9,Block B,Seminar,500,125,161.11,100.0,0.75
+1195,0,16:00,Monday,28.6,Parking Area,None,600,27,46.75,14.74,0.955
+337,0,13:00,Thursday,22.6,Canteen,None,250,5,24.99,1.5,0.98
+119,0,11:00,Thursday,30.5,Block B,None,500,4,11.15,1.2,0.992
+957,73,15:00,Saturday,29.3,Library,Seminar,300,73,88.33,58.4,0.757
+509,0,19:00,Wednesday,35.3,Auditorium,None,1000,12,58.87,3.6,0.988
+180,0,15:00,Thursday,37.5,Auditorium,None,1000,6,24.63,1.8,0.994
+282,0,08:00,Sunday,28.1,Block B,None,500,6,23.7,2.34,0.988
+307,151,17:00,Tuesday,24.8,Canteen,Lecture,250,37,42.95,100.0,0.852
+457,0,20:00,Monday,35.9,Block A,None,400,8,38.62,2.4,0.98
+294,43,07:00,Sunday,15.9,Auditorium,Seminar,1000,36,46.82,32.3,0.964
+649,67,12:00,Sunday,21.6,Auditorium,Cultural,1000,138,140.22,74.9,0.862
+889,0,18:00,Sunday,25.4,Auditorium,None,1000,24,95.34,9.36,0.976
+220,0,20:00,Tuesday,14.9,Block B,None,500,5,16.92,1.5,0.99
+471,214,19:00,Wednesday,29.1,Library,Seminar,300,61,43.62,100.0,0.797
+367,267,14:00,Monday,36.9,Parking Area,Cultural,600,119,52.76,100.0,0.802
+1174,0,19:00,Saturday,28.1,Parking Area,None,600,15,36.59,6.3,0.975
+1163,287,18:00,Saturday,29.3,Parking Area,Exam,600,139,78.28,100.0,0.768
+888,96,20:00,Sunday,27.6,Auditorium,Lecture,1000,84,127.41,73.2,0.916
+1135,260,20:00,Thursday,36.3,Parking Area,Cultural,600,110,73.5,100.0,0.817
+669,0,07:00,Friday,18.2,Block B,None,500,15,46.8,4.5,0.97
+1009,0,19:00,Friday,24.5,Block B,None,500,24,68.59,7.2,0.952
+136,72,13:00,Thursday,13.0,Block A,Cultural,400,46,34.4,49.8,0.885
+723,280,15:00,Tuesday,30.3,Canteen,Workshop,250,88,118.8,100.0,0.648
+556,0,20:00,Thursday,21.3,Canteen,None,250,6,35.01,1.8,0.976
+1026,78,08:00,Sunday,30.4,Parking Area,Workshop,600,70,54.63,100.0,0.883
+697,300,15:00,Wednesday,31.7,Parking Area,Cultural,600,163,71.52,100.0,0.728
+938,254,11:00,Friday,17.5,Block B,Large Event,500,299,240.97,100.0,0.402
+490,193,08:00,Sunday,23.6,Block B,Lecture,500,107,82.45,100.0,0.786
+1022,0,14:00,Saturday,28.5,Library,None,300,18,61.14,5.4,0.94
+199,241,20:00,Friday,25.5,Block A,Lecture,400,64,39.1,100.0,0.84
+455,85,08:00,Thursday,30.4,Block B,Seminar,500,64,71.65,80.21,0.872
+608,160,13:00,Wednesday,39.2,Auditorium,Lecture,1000,123,187.0,100.0,0.877
+1149,173,20:00,Saturday,27.3,Auditorium,Workshop,1000,136,192.41,100.0,0.864
+511,127,16:00,Saturday,20.1,Library,Workshop,300,59,47.97,100.0,0.803
+464,277,15:00,Saturday,29.8,Parking Area,Workshop,600,119,44.9,100.0,0.802
+954,293,11:00,Sunday,23.8,Library,Lecture,300,125,90.76,100.0,0.583
+215,0,10:00,Wednesday,33.0,Auditorium,None,1000,7,28.53,2.1,0.993
+227,0,18:00,Sunday,20.3,Block C,None,350,4,13.34,1.56,0.989
+559,219,10:00,Friday,34.0,Canteen,Lecture,250,57,88.25,100.0,0.772
+881,0,13:00,Thursday,38.8,Parking Area,None,600,20,42.83,8.4,0.967
+614,0,10:00,Friday,36.3,Library,None,300,10,42.18,3.0,0.967
+853,299,18:00,Friday,17.5,Block B,Exam,500,209,168.89,100.0,0.582
+252,0,09:00,Tuesday,32.6,Auditorium,None,1000,8,32.32,3.12,0.992
+366,102,16:00,Sunday,19.1,Block C,Workshop,350,63,49.39,90.87,0.82
+760,0,16:00,Monday,33.7,Block B,None,500,22,72.33,8.58,0.956
+833,57,19:00,Saturday,20.9,Block C,Lecture,350,49,58.37,43.2,0.86
+426,232,15:00,Friday,23.3,Block A,Seminar,400,148,98.19,100.0,0.63
+838,0,11:00,Tuesday,38.6,Parking Area,None,600,17,38.89,7.14,0.972
+118,258,17:00,Wednesday,24.5,Library,Large Event,300,92,39.14,100.0,0.693
+181,0,17:00,Wednesday,22.7,Library,None,300,3,9.04,1.17,0.99
+679,32,15:00,Sunday,33.6,Block C,Workshop,350,56,74.88,32.8,0.84
+494,0,12:00,Friday,14.3,Auditorium,None,1000,22,67.35,6.6,0.978
+115,53,10:00,Saturday,29.6,Canteen,Workshop,250,15,20.17,31.0,0.94
+991,0,17:00,Sunday,38.3,Canteen,None,250,11,103.59,4.29,0.956
+177,64,08:00,Monday,17.0,Auditorium,Seminar,1000,44,47.56,58.76,0.956
+629,0,13:00,Thursday,24.6,Canteen,None,250,10,51.44,3.0,0.96
+1195,23,17:00,Saturday,29.3,Auditorium,Seminar,1000,124,194.39,63.31,0.876
+832,457,08:00,Wednesday,34.0,Parking Area,Large Event,600,180,86.34,100.0,0.7
+881,222,20:00,Saturday,12.9,Canteen,Exam,250,65,109.52,100.0,0.74
+704,93,11:00,Saturday,36.8,Parking Area,Lecture,600,66,48.07,92.82,0.89
+122,92,08:00,Monday,12.1,Parking Area,Lecture,600,23,10.61,96.28,0.962
+804,0,10:00,Thursday,37.4,Block A,None,400,21,76.77,6.3,0.948
+617,0,10:00,Monday,17.1,Block B,None,500,21,50.42,6.3,0.958
+1044,57,11:00,Saturday,13.9,Canteen,Seminar,250,63,131.72,47.4,0.748
+831,85,17:00,Saturday,18.6,Auditorium,Cultural,1000,133,163.19,100.0,0.867
+1022,0,12:00,Friday,30.5,Block B,None,500,36,97.32,10.8,0.928
+747,239,09:00,Monday,20.8,Library,Lecture,300,85,61.04,100.0,0.717
+836,88,17:00,Saturday,21.3,Parking Area,Lecture,600,61,37.38,100.0,0.898
+322,0,09:00,Saturday,29.0,Canteen,None,250,4,26.4,1.56,0.984
+502,154,18:00,Saturday,14.1,Block B,Exam,500,110,103.79,100.0,0.78
+929,128,07:00,Friday,19.3,Library,Workshop,300,59,58.71,81.7,0.803
+849,220,10:00,Sunday,28.5,Parking Area,Seminar,600,129,60.78,100.0,0.785
+912,206,15:00,Monday,30.6,Library,Lecture,300,96,87.49,100.0,0.68
+1152,91,14:00,Tuesday,17.0,Library,Seminar,300,104,98.52,76.7,0.653
+1090,203,07:00,Tuesday,33.3,Block B,Seminar,500,133,163.57,100.0,0.734
+523,0,15:00,Sunday,22.1,Block B,None,500,18,40.81,5.4,0.964
+763,0,08:00,Saturday,39.1,Block A,None,400,15,71.73,5.85,0.963
+456,0,13:00,Saturday,22.6,Parking Area,None,600,11,14.55,4.62,0.982
+870,134,15:00,Thursday,21.9,Block A,Lecture,400,130,101.77,100.0,0.675
+113,276,09:00,Thursday,16.6,Auditorium,Exam,1000,181,143.41,100.0,0.819
+422,0,12:00,Friday,32.1,Block B,None,500,15,43.56,4.5,0.97
+332,0,14:00,Saturday,25.4,Canteen,None,250,5,27.68,1.5,0.98
+599,42,09:00,Friday,28.6,Canteen,Lecture,250,26,66.1,37.44,0.896
+440,0,11:00,Tuesday,26.5,Library,None,300,7,26.23,2.1,0.977
+680,0,08:00,Tuesday,24.6,Parking Area,None,600,13,23.16,7.1,0.978
+941,0,16:00,Tuesday,34.2,Block B,None,500,29,94.72,11.31,0.942
+443,195,14:00,Friday,28.5,Parking Area,Lecture,600,86,38.62,100.0,0.857
+1170,0,20:00,Friday,31.2,Block A,None,400,23,82.21,6.9,0.943
+179,292,15:00,Sunday,15.3,Block B,Lecture,500,141,95.19,100.0,0.718
+102,240,15:00,Thursday,22.4,Library,Workshop,300,82,34.2,100.0,0.727
+1087,215,12:00,Friday,34.5,Block B,Cultural,500,252,247.37,100.0,0.496
+374,0,11:00,Thursday,33.4,Library,None,300,7,25.16,2.1,0.977
+936,151,10:00,Monday,31.9,Library,Exam,300,100,94.02,100.0,0.667
+868,125,18:00,Sunday,20.8,Block A,Lecture,400,87,90.69,100.0,0.782
+635,294,13:00,Friday,22.2,Parking Area,Workshop,600,156,55.2,100.0,0.74
+1088,0,09:00,Wednesday,27.7,Canteen,None,250,12,92.62,4.68,0.952
+915,90,20:00,Sunday,30.5,Library,Lecture,300,40,59.3,57.0,0.867
+305,129,15:00,Thursday,34.0,Parking Area,Cultural,600,68,30.09,100.0,0.887
+429,219,17:00,Monday,34.5,Parking Area,Seminar,600,87,40.82,100.0,0.855
+231,154,10:00,Wednesday,14.2,Library,Lecture,300,47,33.26,91.1,0.843
+1167,166,18:00,Friday,13.6,Auditorium,Workshop,1000,159,229.35,100.0,0.841
+513,285,11:00,Tuesday,12.9,Auditorium,Lecture,1000,174,181.46,100.0,0.826
+173,204,10:00,Saturday,12.0,Block B,Workshop,500,118,97.81,100.0,0.764
+909,227,16:00,Tuesday,26.5,Canteen,Lecture,250,74,110.75,100.0,0.704
+812,197,20:00,Wednesday,18.3,Block A,Workshop,400,108,92.16,100.0,0.73
+634,109,13:00,Friday,15.0,Auditorium,Workshop,1000,140,165.82,96.5,0.86
+627,475,20:00,Sunday,28.1,Block A,Large Event,400,204,120.56,100.0,0.49
+598,193,19:00,Thursday,31.1,Library,Lecture,300,50,48.37,100.0,0.833
+238,0,13:00,Saturday,34.1,Auditorium,None,1000,9,34.52,2.7,0.991
+823,0,15:00,Friday,12.3,Canteen,None,250,12,76.25,3.6,0.952
+800,58,15:00,Tuesday,25.3,Block A,Lecture,400,79,92.4,52.7,0.802
+489,0,14:00,Saturday,17.6,Block C,None,350,14,30.95,4.2,0.96
+611,0,20:00,Friday,22.0,Block B,None,500,14,38.97,4.2,0.972
+1108,23,19:00,Sunday,27.2,Block A,Seminar,400,75,99.91,34.0,0.812
+662,0,14:00,Tuesday,39.6,Library,None,300,12,50.13,3.6,0.96
+362,47,15:00,Sunday,23.8,Block B,Seminar,500,66,56.54,43.3,0.868
+457,254,08:00,Saturday,26.5,Block C,Lecture,350,89,65.99,100.0,0.746
+306,0,12:00,Wednesday,29.2,Parking Area,None,600,7,12.71,2.94,0.988
+802,0,12:00,Tuesday,26.0,Block B,None,500,31,75.43,9.3,0.938
+920,163,14:00,Tuesday,28.0,Block C,Lecture,350,131,114.04,100.0,0.626
+652,0,19:00,Tuesday,27.5,Canteen,None,250,6,47.91,1.8,0.976
+406,262,19:00,Monday,16.9,Canteen,Cultural,250,46,53.56,100.0,0.816
+1193,181,19:00,Thursday,20.4,Canteen,Workshop,250,57,101.64,100.0,0.772
+434,0,07:00,Tuesday,34.8,Auditorium,None,1000,9,49.43,2.7,0.991
+632,204,12:00,Friday,27.6,Auditorium,Seminar,1000,207,198.74,100.0,0.793
+507,0,16:00,Friday,30.2,Auditorium,None,1000,15,58.55,5.85,0.985
+1145,269,19:00,Saturday,24.5,Block C,Lecture,350,117,103.29,100.0,0.666
+396,105,17:00,Sunday,38.0,Auditorium,Workshop,1000,72,113.65,96.33,0.928
+246,240,09:00,Wednesday,18.4,Auditorium,Large Event,1000,173,143.28,100.0,0.827
+909,158,14:00,Sunday,36.2,Block C,Workshop,350,119,136.66,100.0,0.66
+476,31,09:00,Saturday,18.6,Auditorium,Lecture,1000,51,79.96,40.04,0.949
+441,0,13:00,Monday,14.7,Parking Area,None,600,11,17.42,4.62,0.982
+913,0,15:00,Sunday,39.9,Block A,None,400,26,97.96,7.8,0.935
+898,178,10:00,Tuesday,32.7,Block A,Workshop,400,136,145.34,100.0,0.66
+158,217,17:00,Wednesday,36.1,Library,Large Event,300,66,44.69,100.0,0.78
+657,300,14:00,Tuesday,39.1,Canteen,Workshop,250,87,131.92,100.0,0.652
+990,288,17:00,Saturday,26.9,Library,Lecture,300,105,90.06,100.0,0.65
+1004,357,12:00,Thursday,19.3,Block B,Large Event,500,376,262.52,100.0,0.248
+379,196,11:00,Thursday,27.0,Canteen,Seminar,250,63,64.14,100.0,0.748
+118,240,19:00,Wednesday,28.7,Canteen,Lecture,250,33,26.2,100.0,0.868
+995,222,10:00,Tuesday,32.0,Block B,Lecture,500,154,164.71,100.0,0.692
+964,0,17:00,Tuesday,26.5,Block B,None,500,30,78.34,11.7,0.94
+683,292,19:00,Wednesday,23.6,Parking Area,Seminar,600,103,38.69,100.0,0.828
+1032,0,16:00,Thursday,19.6,Block C,None,350,27,65.03,10.53,0.923
+1195,0,07:00,Tuesday,39.2,Block A,None,400,21,105.41,6.3,0.948
+576,66,09:00,Monday,25.8,Auditorium,Seminar,1000,88,112.98,77.22,0.912
+860,257,18:00,Sunday,12.9,Canteen,Lecture,250,64,118.98,100.0,0.744
+903,0,08:00,Friday,25.2,Block B,None,500,25,78.39,9.75,0.95
+125,82,19:00,Saturday,19.0,Canteen,Lecture,250,13,14.33,44.9,0.948
+507,255,18:00,Sunday,14.6,Parking Area,Cultural,600,96,41.83,100.0,0.84
+739,185,09:00,Saturday,32.4,Auditorium,Seminar,1000,157,191.37,100.0,0.843
+711,0,10:00,Wednesday,36.9,Block A,None,400,19,67.23,5.7,0.953
+989,0,12:00,Monday,16.7,Block A,None,400,33,81.46,9.9,0.917
+186,0,16:00,Sunday,31.3,Canteen,None,250,2,16.69,0.78,0.992
+422,0,14:00,Monday,31.2,Canteen,None,250,6,43.14,1.8,0.976
+222,202,17:00,Tuesday,31.6,Canteen,Workshop,250,45,48.48,100.0,0.82
+811,0,19:00,Thursday,32.5,Block B,None,500,18,69.43,5.4,0.964
+180,0,14:00,Saturday,24.3,Parking Area,None,600,4,6.6,1.68,0.993
+812,185,18:00,Thursday,19.7,Block B,Workshop,500,140,115.28,100.0,0.72
+1187,0,09:00,Thursday,20.3,Library,None,300,20,64.67,7.8,0.933
+1136,214,18:00,Tuesday,36.7,Block A,Seminar,400,134,170.44,100.0,0.665
+229,0,17:00,Friday,34.9,Library,None,300,3,16.31,1.17,0.99
+679,185,13:00,Saturday,21.0,Canteen,Workshop,250,83,94.34,100.0,0.668
+365,291,20:00,Monday,17.7,Block A,Large Event,400,129,78.99,100.0,0.677
+895,270,15:00,Friday,31.6,Library,Workshop,300,119,108.67,100.0,0.603
+126,126,17:00,Thursday,38.0,Library,Seminar,300,35,25.41,95.55,0.883
+951,0,20:00,Wednesday,34.2,Parking Area,None,600,14,37.02,5.88,0.977
+244,0,20:00,Wednesday,14.2,Library,None,300,3,13.85,0.9,0.99
+1188,217,10:00,Tuesday,26.7,Block A,Seminar,400,201,185.3,100.0,0.498
+950,74,19:00,Saturday,28.1,Block B,Workshop,500,78,96.74,60.4,0.844
+441,112,15:00,Thursday,26.1,Auditorium,Exam,1000,129,122.11,94.7,0.871
+821,181,15:00,Wednesday,35.7,Library,Lecture,300,71,88.79,100.0,0.763
+592,299,10:00,Thursday,33.4,Canteen,Seminar,250,90,114.61,100.0,0.64
+913,20,18:00,Monday,39.5,Auditorium,Lecture,1000,59,158.19,36.01,0.941
+554,0,10:00,Sunday,20.8,Block C,None,350,15,31.28,4.5,0.957
+1147,0,15:00,Friday,37.9,Canteen,None,250,16,125.43,4.8,0.936
+642,0,12:00,Friday,19.0,Block C,None,350,19,44.29,5.7,0.946
+545,59,18:00,Wednesday,34.2,Library,Lecture,300,29,49.79,49.66,0.903
+295,173,07:00,Saturday,34.6,Parking Area,Seminar,600,45,23.63,100.0,0.925
+989,233,20:00,Monday,36.4,Canteen,Lecture,250,48,124.76,100.0,0.808
+883,47,11:00,Friday,13.2,Library,Exam,300,67,78.47,43.6,0.777
+413,45,17:00,Saturday,39.9,Library,Seminar,300,29,43.09,40.56,0.903
+554,241,11:00,Sunday,23.0,Library,Lecture,300,91,58.81,100.0,0.697
+917,154,08:00,Thursday,26.1,Library,Seminar,300,75,73.39,100.0,0.75
+505,269,13:00,Saturday,28.0,Block B,Lecture,500,145,112.77,100.0,0.71
+246,0,11:00,Sunday,24.0,Library,None,300,4,12.34,1.2,0.987
+967,207,12:00,Tuesday,21.0,Block A,Seminar,400,204,146.51,100.0,0.49
+816,0,16:00,Sunday,39.7,Block C,None,350,18,73.33,7.02,0.949
+578,122,17:00,Wednesday,16.4,Block A,Exam,400,105,89.56,100.0,0.738
+402,0,20:00,Sunday,35.0,Parking Area,None,600,6,15.72,2.52,0.99
+1064,0,07:00,Wednesday,17.9,Block A,None,400,21,68.73,6.3,0.948
+1089,92,18:00,Saturday,30.7,Library,Seminar,300,59,91.88,82.81,0.803
+448,0,07:00,Wednesday,17.6,Library,None,300,5,21.43,1.5,0.983
+117,54,13:00,Saturday,19.6,Auditorium,Workshop,1000,49,40.04,41.7,0.951
+699,0,20:00,Saturday,22.8,Canteen,None,250,7,46.11,2.1,0.972
+746,0,14:00,Sunday,28.7,Parking Area,None,600,19,30.07,7.98,0.968
+144,40,10:00,Friday,20.5,Auditorium,Workshop,1000,34,33.61,30.2,0.966
+820,201,17:00,Wednesday,18.6,Block A,Lecture,400,129,111.53,100.0,0.677
+627,0,13:00,Sunday,39.7,Canteen,None,250,10,69.04,3.0,0.96
+904,0,17:00,Tuesday,14.5,Block B,None,500,24,86.8,9.36,0.952
+565,233,10:00,Friday,16.3,Library,Exam,300,118,76.49,100.0,0.607
+369,125,17:00,Tuesday,28.3,Block C,Lecture,350,56,46.9,100.0,0.84
+1172,0,09:00,Thursday,39.9,Block B,None,500,32,132.34,12.48,0.936
+750,54,15:00,Friday,38.6,Library,Exam,300,60,82.99,45.0,0.8
+752,231,13:00,Wednesday,24.4,Block B,Seminar,500,243,168.86,100.0,0.514
+484,0,08:00,Tuesday,17.2,Parking Area,None,600,8,16.29,4.37,0.987
+572,138,10:00,Saturday,12.7,Block C,Workshop,350,94,86.62,97.2,0.731
+1060,211,09:00,Sunday,22.8,Block B,Lecture,500,159,145.04,100.0,0.682
+130,0,11:00,Thursday,18.2,Block B,None,500,4,10.66,1.2,0.992
+999,0,20:00,Friday,25.7,Block B,None,500,22,74.63,6.6,0.956
+185,214,18:00,Wednesday,23.0,Block B,Lecture,500,92,56.28,100.0,0.816
+178,286,08:00,Thursday,24.8,Library,Lecture,300,65,31.39,100.0,0.783
+910,40,15:00,Thursday,26.5,Block B,Lecture,500,94,113.06,48.2,0.812
+723,166,14:00,Tuesday,23.8,Block C,Lecture,350,113,84.14,100.0,0.677
+1049,251,08:00,Saturday,26.0,Library,Exam,300,118,102.93,100.0,0.607
+905,231,12:00,Thursday,12.7,Parking Area,Workshop,600,123,68.07,100.0,0.795
+284,148,12:00,Saturday,30.2,Block B,Exam,500,123,93.36,100.0,0.754
+333,0,18:00,Thursday,29.8,Parking Area,None,600,6,13.34,3.28,0.99
+1147,101,13:00,Friday,22.7,Parking Area,Seminar,600,129,55.82,100.0,0.785
+407,103,20:00,Tuesday,17.0,Library,Exam,300,38,31.38,62.9,0.873
+1013,167,17:00,Tuesday,15.3,Block C,Seminar,350,129,123.98,100.0,0.631
+125,254,14:00,Sunday,26.0,Library,Seminar,300,91,39.88,100.0,0.697
+1074,0,14:00,Thursday,24.4,Auditorium,None,1000,46,118.7,13.8,0.954
+525,0,07:00,Tuesday,16.2,Library,None,300,6,26.67,1.8,0.98
+711,0,12:00,Monday,13.4,Canteen,None,250,11,67.17,3.3,0.956
+463,0,14:00,Saturday,28.2,Parking Area,None,600,11,17.84,4.62,0.982
+876,0,20:00,Monday,33.2,Block C,None,350,14,58.67,4.2,0.96
+662,0,12:00,Friday,23.6,Auditorium,None,1000,29,74.06,8.7,0.971
+1183,0,08:00,Thursday,32.3,Block A,None,400,25,95.28,9.75,0.938
+748,0,11:00,Friday,28.1,Parking Area,None,600,16,26.67,6.72,0.973
+1164,274,14:00,Sunday,17.0,Library,Workshop,300,138,110.19,100.0,0.54
+149,0,14:00,Saturday,34.3,Block B,None,500,5,15.23,1.5,0.99
+947,43,12:00,Wednesday,27.7,Library,Cultural,300,73,78.52,43.4,0.757
+621,54,11:00,Wednesday,26.2,Block B,Seminar,500,94,93.9,55.2,0.812
+911,0,18:00,Friday,29.2,Parking Area,None,600,16,34.9,8.74,0.973
+1081,442,19:00,Monday,30.1,Block C,Large Event,350,185,144.18,100.0,0.471
+786,256,19:00,Sunday,23.6,Canteen,Workshop,250,60,73.57,100.0,0.76
+746,294,07:00,Tuesday,28.2,Block C,Workshop,350,103,90.29,100.0,0.706
+405,163,20:00,Monday,21.5,Canteen,Lecture,250,30,40.65,90.5,0.88
+897,115,16:00,Monday,36.2,Block B,Workshop,500,123,152.13,100.0,0.754
+656,231,08:00,Thursday,36.6,Block C,Seminar,350,94,105.67,100.0,0.731
+719,0,09:00,Monday,22.5,Block C,None,350,18,43.63,7.02,0.949
+151,267,15:00,Tuesday,17.3,Block A,Lecture,400,127,71.04,100.0,0.682
+770,0,09:00,Sunday,36.4,Library,None,300,12,49.94,4.68,0.96
+520,38,14:00,Thursday,32.0,Parking Area,Cultural,600,51,33.16,48.02,0.915
+278,190,14:00,Monday,14.9,Block A,Seminar,400,121,77.65,100.0,0.698
+739,127,12:00,Tuesday,17.4,Block A,Workshop,400,127,113.64,100.0,0.682
+658,96,09:00,Wednesday,15.2,Auditorium,Seminar,1000,118,146.55,100.0,0.882
+817,0,15:00,Wednesday,19.6,Block A,None,400,29,60.29,8.7,0.927
+245,0,11:00,Friday,37.0,Library,None,300,4,17.62,1.2,0.987
+203,74,13:00,Monday,14.4,Block A,Lecture,400,43,38.39,49.9,0.892
+1013,202,11:00,Wednesday,34.9,Library,Workshop,300,101,104.68,100.0,0.663
+1053,0,16:00,Tuesday,14.6,Library,None,300,19,60.99,7.41,0.937
+1053,260,10:00,Tuesday,16.0,Block A,Lecture,400,175,156.2,100.0,0.562
+776,186,14:00,Thursday,12.8,Block C,Lecture,350,111,105.71,100.0,0.683
+678,593,12:00,Friday,28.1,Auditorium,Large Event,1000,506,429.62,100.0,0.494
+767,56,19:00,Wednesday,26.9,Parking Area,Seminar,600,44,32.86,57.68,0.927
+425,0,14:00,Thursday,13.8,Library,None,300,8,28.4,2.4,0.973
+991,195,15:00,Saturday,18.6,Auditorium,Seminar,1000,234,239.6,100.0,0.766
+1096,78,16:00,Friday,25.0,Parking Area,Workshop,600,85,51.89,100.0,0.858
+931,0,08:00,Friday,15.0,Block B,None,500,25,77.56,9.75,0.95
+225,0,08:00,Tuesday,34.9,Auditorium,None,1000,6,27.52,2.34,0.994
+400,538,09:00,Thursday,26.9,Parking Area,Large Event,600,212,68.33,100.0,0.647
+748,0,11:00,Friday,34.2,Block B,None,500,23,70.79,6.9,0.954
+805,65,16:00,Monday,29.1,Auditorium,Seminar,1000,108,155.09,84.37,0.892
+856,0,15:00,Monday,12.0,Canteen,None,250,11,77.68,3.3,0.956
+163,320,13:00,Saturday,28.5,Block A,Large Event,400,198,109.69,100.0,0.505
+532,108,14:00,Tuesday,17.3,Auditorium,Lecture,1000,100,124.08,84.0,0.9
+690,84,09:00,Monday,14.0,Canteen,Lecture,250,37,81.2,69.03,0.852
+378,63,09:00,Saturday,34.6,Auditorium,Workshop,1000,63,87.48,65.52,0.937
+971,112,14:00,Friday,23.9,Parking Area,Workshop,600,111,52.11,100.0,0.815
+115,0,16:00,Thursday,35.7,Block B,None,500,3,12.42,1.17,0.994
+851,37,07:00,Friday,25.5,Auditorium,Exam,1000,82,121.08,43.1,0.918
+1178,0,20:00,Sunday,33.8,Parking Area,None,600,16,44.36,6.72,0.973
+1067,0,17:00,Saturday,30.6,Library,None,300,16,62.64,6.24,0.947
+739,47,12:00,Friday,33.8,Library,Seminar,300,51,68.97,38.8,0.83
+778,235,12:00,Sunday,20.2,Auditorium,Workshop,1000,245,234.11,100.0,0.755
+633,51,17:00,Thursday,28.2,Library,Seminar,300,40,48.45,48.75,0.867
+155,346,14:00,Monday,15.6,Block C,Large Event,350,208,110.82,100.0,0.406
+675,0,11:00,Sunday,19.2,Block C,None,350,19,41.96,5.7,0.946
+1014,209,19:00,Tuesday,19.3,Library,Seminar,300,77,67.39,100.0,0.743
+167,195,08:00,Tuesday,28.7,Canteen,Lecture,250,34,32.41,100.0,0.864
+884,141,17:00,Thursday,32.3,Canteen,Cultural,250,65,126.83,100.0,0.74
+641,79,07:00,Tuesday,25.0,Canteen,Lecture,250,24,54.85,46.7,0.904
+578,214,17:00,Saturday,22.9,Canteen,Exam,250,77,84.9,100.0,0.692
+1019,0,13:00,Saturday,20.8,Auditorium,None,1000,39,104.17,11.7,0.961
+824,241,16:00,Saturday,36.0,Block A,Exam,400,178,180.33,100.0,0.555
+901,0,14:00,Sunday,30.9,Block A,None,400,29,83.66,8.7,0.927
+791,0,17:00,Saturday,39.8,Canteen,None,250,9,87.84,3.51,0.964
+124,410,08:00,Friday,14.9,Block A,Large Event,400,175,102.63,100.0,0.562
+169,0,07:00,Friday,14.6,Block C,None,350,3,10.38,0.9,0.991
+349,0,18:00,Monday,14.4,Canteen,None,250,3,29.51,1.17,0.988
+478,76,18:00,Tuesday,19.1,Canteen,Exam,250,30,52.51,61.1,0.88
+666,238,18:00,Saturday,33.6,Parking Area,Lecture,600,74,47.63,100.0,0.877
+227,0,13:00,Thursday,21.3,Block A,None,400,9,17.41,2.7,0.978
+242,0,14:00,Tuesday,29.1,Block C,None,350,7,18.64,2.1,0.98
+983,131,16:00,Saturday,15.0,Block B,Workshop,500,143,157.44,100.0,0.714
+613,0,19:00,Thursday,12.5,Block A,None,400,11,45.08,3.3,0.973
+899,156,09:00,Saturday,21.2,Block A,Exam,400,156,121.18,100.0,0.61
+1104,264,13:00,Thursday,35.6,Parking Area,Cultural,600,178,91.14,100.0,0.703
+887,0,18:00,Sunday,33.8,Library,None,300,12,60.56,4.68,0.96
+720,225,07:00,Saturday,39.9,Block C,Lecture,350,67,84.23,100.0,0.809
+264,255,19:00,Sunday,20.1,Canteen,Cultural,250,52,45.22,100.0,0.792
+712,219,08:00,Saturday,31.3,Auditorium,Workshop,1000,129,172.97,100.0,0.871
+386,38,10:00,Monday,32.2,Auditorium,Seminar,1000,56,81.72,35.8,0.944
+730,275,15:00,Sunday,34.7,Block A,Seminar,400,186,168.21,100.0,0.535
+187,0,13:00,Monday,17.9,Block C,None,350,5,12.11,1.5,0.986
+1198,96,18:00,Friday,18.5,Parking Area,Exam,600,106,63.95,100.0,0.823
+1065,43,10:00,Saturday,30.2,Auditorium,Workshop,1000,134,206.07,61.7,0.866
+299,433,16:00,Tuesday,35.4,Block C,Large Event,350,227,151.01,100.0,0.351
+551,52,19:00,Tuesday,23.9,Block A,Lecture,400,43,42.33,38.9,0.892
+347,299,09:00,Wednesday,35.4,Parking Area,Lecture,600,86,37.29,100.0,0.857
+229,0,08:00,Wednesday,16.0,Library,None,300,3,13.55,1.17,0.99
+598,0,16:00,Monday,15.7,Library,None,300,11,33.93,4.29,0.963
+132,269,08:00,Monday,12.2,Auditorium,Seminar,1000,135,117.37,100.0,0.865
+952,263,18:00,Tuesday,17.8,Library,Exam,300,108,86.6,100.0,0.64
+457,0,16:00,Saturday,13.1,Auditorium,None,1000,16,59.5,6.24,0.984
+716,198,13:00,Monday,27.6,Block A,Workshop,400,169,147.43,100.0,0.578
+1139,132,14:00,Sunday,29.5,Block A,Workshop,400,162,166.15,100.0,0.595
+1071,274,09:00,Tuesday,30.8,Block A,Seminar,400,201,189.11,100.0,0.498
+614,0,12:00,Friday,34.5,Block C,None,350,16,49.9,4.8,0.954
+1200,0,09:00,Tuesday,34.0,Parking Area,None,600,22,51.56,12.01,0.963
+767,234,10:00,Saturday,31.0,Block B,Seminar,500,178,178.75,100.0,0.644
+585,0,18:00,Thursday,36.4,Block C,None,350,10,48.08,3.9,0.971
+211,243,09:00,Tuesday,38.0,Auditorium,Workshop,1000,115,130.31,100.0,0.885
+497,203,11:00,Tuesday,21.4,Block B,Lecture,500,149,105.1,100.0,0.702
+1053,0,14:00,Thursday,16.8,Block C,None,350,29,78.63,8.7,0.917
+448,0,16:00,Friday,35.9,Library,None,300,8,33.22,3.12,0.973
+543,502,14:00,Sunday,25.0,Auditorium,Large Event,1000,486,373.32,100.0,0.514
+770,0,13:00,Friday,18.2,Canteen,None,250,14,62.09,4.2,0.944
+955,42,07:00,Thursday,32.5,Library,Exam,300,42,67.83,33.6,0.86
+300,251,14:00,Tuesday,14.3,Auditorium,Lecture,1000,156,137.71,100.0,0.844
+371,203,11:00,Tuesday,30.1,Auditorium,Cultural,1000,178,176.04,100.0,0.822
+1040,0,20:00,Friday,32.9,Block C,None,350,18,71.18,5.4,0.949
+930,0,09:00,Sunday,36.4,Canteen,None,250,10,91.2,3.9,0.96
+244,397,18:00,Wednesday,26.9,Block A,Large Event,400,185,115.72,100.0,0.537
+524,61,16:00,Wednesday,32.6,Parking Area,Cultural,600,60,37.57,88.27,0.9
